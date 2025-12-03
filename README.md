@@ -1,0 +1,1 @@
+Blog site template with bootstrap.
